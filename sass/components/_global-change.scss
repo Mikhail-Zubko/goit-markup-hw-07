@@ -15,7 +15,8 @@ p {
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
+    // font-family: 'Roboto', sans-serif;
+    font-family: $font-family;
     color: var(--primary-text-color);
     background-color: var(--white-text-color);
     font-size: 14px;
