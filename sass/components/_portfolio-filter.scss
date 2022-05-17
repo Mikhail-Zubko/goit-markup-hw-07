@@ -43,6 +43,13 @@
 }
 
 
+
+.filter-current {
+    color: var(--white-text-color);
+    background-color: var(--accent-color);
+}
+
+
 // .portfolio-button {
 //     padding: 6px 22px;
 //     border: none;
@@ -74,7 +81,3 @@
 //     0px 2px 2px rgba(0, 0, 0, 0.12);
 // }
 
-.filter-current {
-    color: var(--white-text-color);
-    background-color: var(--accent-color);
-}
